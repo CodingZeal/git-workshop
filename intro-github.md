@@ -18,16 +18,11 @@ Now that you have an account let's make a brand new repository that will be the 
 
 ![](github-add-menu.png)
 
-When creating the repository
+When creating the repository I like to name the repository the same name as the project directory locally. In this case `hello-git`.
+
+You can keep everything else the same and click `Create Repository`.
 
 ![](github-create.png)
 
-```
-git remote add origin git@github.com:YOUR_USERNAME/hello-git.git
-```
 
-```
-git push origin master
-```
-
-[Next]()
+[Next](github-push.md)

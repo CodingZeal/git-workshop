@@ -5,7 +5,7 @@ From `git init` to `git push origin master` and more
 
 ## By Erik (Gooseman) Guzman
 
-- Senior Fullstack Engineer @ Coding Zeal
+- Senior Fullstack Engineer @ Coding ZEAL
 - Microsoft MVP in Developer Tools
 - [Live Coder on Twitch.tv](https://twitch.tv/talk2megooseman)
 - [@Talk2MeGooseman](https://twitter.com/talk2megooseman)
