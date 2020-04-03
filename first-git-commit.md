@@ -77,4 +77,4 @@ After running the command you should see something close to the following output
 
 If you inspect the output, you should see the commit message used, and the file(s) that were committed.
 
-[Next](committing-files-changes.md)
+[Next](committing-file-changes.md)
