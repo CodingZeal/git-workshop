@@ -71,3 +71,23 @@ Git is telling us in the above output where it pushed our new branch and what it
 ## Creating the Pull Request
 
 Now that the branch has been pushed to Github, let's had over to your Github where you repository lives.
+
+Click on `Pull requests`
+![](pull-request-menu.png)
+
+Click `New pull request`
+
+![](new-pr.png)
+
+Select the compare dropdown
+
+![](compare-dropdown.png)
+
+Now select our branch `more-super-cool-edits`
+
+From here Github will compare the changes on your `more-super-cool-edits` and `master` branch. This is super awesome to see all the changes that `more-super-cool-edits` will be introducing.
+
+Click `Create pull request`.
+
+Now we have a `Pull Request` other people can see and review. They can look at changes you are making and provide feedback or approval. Another cool thing about this feature is that if all the changes look good you can merge the changes from `more-super-cool-edits` into `master` directly on Github!
+
