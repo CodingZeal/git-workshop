@@ -32,4 +32,4 @@ After running the command you should see something like the following in your te
 ```
 Initialized empty Git repository in /blah/blah/blah/.git/
 ```
-[Next](gei-status.md)
+[Next](git-status.md)
