@@ -5,7 +5,7 @@ It is tool used to track changes in code and other text files. It also provides 
 
 ## How I like to internalize the idea
 
-It's like journal or log of all the changes that you have made to file and you can go back in time to look at what thing use to look like.
+It's like journal, log, or video game save points, all the changes that you have made to file are rememebered up to that point and you can go back in time to look at what things use to look like.
 
 
 ## So why do we need a SCM?
